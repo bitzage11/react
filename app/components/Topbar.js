@@ -5,6 +5,7 @@ class Topbar extends Component {
 
 
     render() {
+        console.log(this);
         return (
             <nav className="navbar navbar-default navbar-fixed-top">
         <div className="container-fluid">
